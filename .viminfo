@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1603963056,,"wq"
+|2,0,1603965957,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,54 @@
 # Registers:
 
 # File marks:
-'0  1  28  ~/info.txt
-|4,48,1,28,1603963056,"~/info.txt"
-'1  1  19  ~/Readme.md
-|4,49,1,19,1603963032,"~/Readme.md"
+'0  2  19  ~/info.txt
+|4,48,2,19,1603965957,"~/info.txt"
+'1  1  20  ~/main.c
+|4,49,1,20,1603965792,"~/main.c"
 '2  1  28  ~/info.txt
-|4,50,1,28,1603962989,"~/info.txt"
+|4,50,1,28,1603963056,"~/info.txt"
+'3  1  28  ~/info.txt
+|4,51,1,28,1603963056,"~/info.txt"
+'4  1  19  ~/Readme.md
+|4,52,1,19,1603963032,"~/Readme.md"
+'5  1  28  ~/info.txt
+|4,53,1,28,1603962989,"~/info.txt"
+'6  1  28  ~/info.txt
+|4,54,1,28,1603962989,"~/info.txt"
 
 # Jumplist (newest first):
+-'  2  19  ~/info.txt
+|4,39,2,19,1603965957,"~/info.txt"
+-'  1  28  ~/info.txt
+|4,39,1,28,1603965928,"~/info.txt"
+-'  1  20  ~/main.c
+|4,39,1,20,1603965792,"~/main.c"
+-'  1  20  ~/main.c
+|4,39,1,20,1603965792,"~/main.c"
+-'  1  28  ~/info.txt
+|4,39,1,28,1603963056,"~/info.txt"
 -'  1  28  ~/info.txt
 |4,39,1,28,1603963056,"~/info.txt"
 -'  1  19  ~/Readme.md
 |4,39,1,19,1603963032,"~/Readme.md"
 -'  1  19  ~/Readme.md
 |4,39,1,19,1603963032,"~/Readme.md"
+-'  1  19  ~/Readme.md
+|4,39,1,19,1603963032,"~/Readme.md"
+-'  1  19  ~/Readme.md
+|4,39,1,19,1603963032,"~/Readme.md"
+-'  1  19  ~/Readme.md
+|4,39,1,19,1603963032,"~/Readme.md"
+-'  1  19  ~/Readme.md
+|4,39,1,19,1603963032,"~/Readme.md"
+-'  1  19  ~/Readme.md
+|4,39,1,19,1603963032,"~/Readme.md"
+-'  1  19  ~/Readme.md
+|4,39,1,19,1603963032,"~/Readme.md"
+-'  1  28  ~/info.txt
+|4,39,1,28,1603962989,"~/info.txt"
+-'  1  28  ~/info.txt
+|4,39,1,28,1603962989,"~/info.txt"
 -'  1  28  ~/info.txt
 |4,39,1,28,1603962989,"~/info.txt"
 -'  1  28  ~/info.txt
@@ -47,11 +81,19 @@
 # History of marks within files (newest to oldest):
 
 > ~/info.txt
-	*	1603963048	0
-	"	1	28
-	^	1	29
-	.	1	28
+	*	1603965954	0
+	"	2	19
+	^	2	20
+	.	2	19
 	+	1	28
+	+	2	19
+
+> ~/main.c
+	*	1603965783	0
+	"	1	20
+	^	1	21
+	.	1	20
+	+	1	20
 
 > ~/Readme.md
 	*	1603963027	0
